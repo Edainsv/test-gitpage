@@ -1,3 +1,8 @@
-body {
-    background-color: #1e1e1e;
+.my-body-class {
+	background-color: #1E1E1E;
+	color: #fff;
+}
+
+.bg-my-input-dark {
+	background: #F09B47;
 }
